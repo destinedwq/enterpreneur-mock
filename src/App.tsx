@@ -15,7 +15,7 @@ import ReactMarkdown from 'react-markdown';
 import { clsx, type ClassValue } from 'clsx';
 import { twMerge } from 'tailwind-merge';
 import { Stage, StartupData, DecisionPoint, DecisionOption } from './types';
-import { validateIdea, simulatePitch, generateDecision, generateFinalFeedback } from './services/gemini';
+import { validateIdea, simulatePitch, generateDecision, generateFinalFeedback } from './services/deepseek';
 
 const MAX_DECISION_STEPS = 5;
 
