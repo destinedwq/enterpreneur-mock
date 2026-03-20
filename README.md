@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="GHBanner" src="https://raw.githubusercontent.com/THU-SIGS-LLM-APP/2026-PROJECT-Sanbu-enterpreneur_mock/main/image.png" />
 </div>
 
 # 创业全流程模拟器 (Entrepreneur Mock)
@@ -33,8 +33,8 @@
 
 1. 克隆仓库
    ```bash
-   git clone https://github.com/destinedwq/enterpreneur-mock.git
-   cd enterpreneur-mock
+   git clone https://github.com/THU-SIGS-LLM-APP/2026-PROJECT-Sanbu-enterpreneur_mock.git
+   cd 2026-PROJECT-Sanbu-enterpreneur_mock
    ```
 
 2. 安装依赖
